@@ -1,0 +1,2 @@
+// comments simple
+/* long comments */
